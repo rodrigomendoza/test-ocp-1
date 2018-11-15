@@ -1,5 +1,9 @@
 <?php
 //test
-phpinfo();
+//phpinfo();
+
+echo "<pre>Hello World!\n";
+echo time();
+echo "</pre>";
 
 ?>
